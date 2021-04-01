@@ -1,0 +1,16 @@
+body{
+	font-size:80%;
+}
+
+/*style for login page */
+.body_div_login{
+	margin-top: 10%;
+}
+#body_id{
+	background-image: url("../img/bg.jpg");
+}
+
+#primary_nav{
+	background-image: url("../img/bg.jpg");
+}
+
